@@ -57,6 +57,9 @@
 
 * ![image](https://user-images.githubusercontent.com/101749850/164533674-fb4df456-749f-4b48-864b-3487bd15a3e0.png)
 
+![image](https://user-images.githubusercontent.com/101749850/164533925-5d9d1927-6e6b-4b56-917e-5f593b889117.png)
+
+
 * 
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
