@@ -48,8 +48,11 @@
 *          10 MOSTRAR ("OCTUBRE")
 *          11 MOSTRAR ("NOVIEMBRE")
 *          12 MOSTRAR ("DICIMEBRE")
-*          13 MOSTRAR ("OPCION ERRONEA")
+*          SINO MOSTRARV ("OPCION ERRONEA")
+
+* 6- FIN
 *          
+![image](https://user-images.githubusercontent.com/101749850/164530865-41c6ef80-96ea-4bb4-9c3c-312bf2e0d95f.png)
 
 
 * 
