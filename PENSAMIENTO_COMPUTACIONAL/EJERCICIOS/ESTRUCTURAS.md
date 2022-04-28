@@ -119,3 +119,6 @@ FIN MIENTRAS
 FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101749850/165818940-5eea325f-a152-4e4b-b28f-349274dd6c2c.png)
 
+![image](https://user-images.githubusercontent.com/101749850/165829496-b62d19d2-3ef4-4a01-b5b8-9c7e0a541834.png)
+
+
