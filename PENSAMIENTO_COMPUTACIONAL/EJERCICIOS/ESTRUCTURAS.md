@@ -66,6 +66,9 @@
 
 ---SOLICITAR QUE SE INGRESE UN NUMERO ENTRE 0 Y 999 Y SI Y QUE EL SISTEMA ARROJE UNA FRASE SI LA CIFRA ES DE UN DIGITO , 2 DIGITOS, 3 DIGITOS, Y SI SE SALE DEL RANGO ARROJAR UNA FRASE QUE DIGA ERRRO , TU RANGO ES ENTRE 0 Y 999"
 
+![image](https://user-images.githubusercontent.com/101749850/165819189-16d691d1-c9d3-4d4d-8940-c898e1673e93.png)
+
+
 Algoritmo ingresaunacifraentreceroy999ysalgalafrasedecifras
 	nume<-0
 	Repetir
