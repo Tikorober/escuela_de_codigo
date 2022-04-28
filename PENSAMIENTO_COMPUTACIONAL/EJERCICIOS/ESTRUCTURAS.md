@@ -89,6 +89,33 @@ Algoritmo ingresaunacifraentreceroy999ysalgalafrasedecifras
 		Fin Si
 	Hasta Que nume = 0
 	
+	
+	-----------------solictar que adivine el numero secreto entre el 0 y el 100 y dar solo 10 vidas,  mostrar la frase en la que diga en que vida le atino o que siga adivinando"
+	
+	![image](https://user-images.githubusercontent.com/101749850/165828718-ba8c6ff8-43ad-494e-9787-5aa4b1848507.png)
+
+
+
+	![image](https://user-images.githubusercontent.com/101749850/165828761-2ddff172-235c-483c-beb9-6394ab6ba11c.png)
+1 inicio
+2 numerosecreto
+3 num
+4 i (variable contador) = 0
+5 escribir "adivina el numero secreto entre 0 y 100"
+6 num
+7 MIENTRAS  num (sea diferente) numerosecreto
+si num (mayor) numerosecreto
+ESCRIBIR "el numero es menor"
+FIN SI
+ESCRIBIR "Te quedan", i , "intentos"
+ESCRIBIR "ingresa otro numero del 1 al 100"
+leer num
+FIN MIENTRAS
+	
+	
+	
+	
+	
 FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/101749850/165818940-5eea325f-a152-4e4b-b28f-349274dd6c2c.png)
 
